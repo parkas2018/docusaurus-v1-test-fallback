@@ -1,0 +1,8 @@
+{
+  "version-1.0.0-docs": {
+    "Docusaurus": [
+      "version-1.0.0-hello",
+      "version-1.0.0-foo/bar"
+    ]
+  }
+}
