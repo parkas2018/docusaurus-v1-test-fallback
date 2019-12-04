@@ -1,7 +1,8 @@
 ---
-id: hello
+id: version-1.1.0-hello
 title: Hello
 sidebar_label: Hello
+original_id: hello
 ---
 
 Hello!!
